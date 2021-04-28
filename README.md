@@ -1,35 +1,32 @@
 
 # Monkiki App
 ________________________
-# Landing Page para presentación de producto.
+# Landing Page for product presentation.
 
-## [Link a la demo](http://monkikiapp.netlify.app)
-
-
-**Cliente:** Monkiki App
+## [Link to demo](http://monkikiapp.netlify.app)
 
 
-**Producto:** App de adopción de animales
+**Client:** Monkiki App
 
 
-**Objetivo:**
-El desafío consiste en la creación de una landing page para compartir la información sobre la app, poniendo en práctica mi primer projecto realizado enteramente en Reactjs. En esta web debe comunicarse el propósito de la app, sus beneficios, información adicional y todas las políticas y legales que conllevan la creación de una app.
+**Product:** Animal Adoption App
 
 
-Otro desafío fue la creación de la identidad visual:
-
-## [Link a Behance](https://www.behance.net/gallery/118420743/Monkiki-Animal-Adoption-App)
+**Goal:**
+The challenge consts in creating a landing page to share all the information about the app, integrating different development languages and resources with a unique visual system and identity.
+One of the goals was to create such visual system, you can take a look at the behance project:
+## [Link to Behance Project](https://www.behance.net/gallery/118420743/Monkiki-Animal-Adoption-App)
 
 
 
-**Lenguajes**
+**Lenguages**
 - HTML5
 - CSS3 
 - JavaScript
 - React
 
 
-**Recursos**
+**Resources**
 - Styled Components
 - VSCode
 - Git & Github
