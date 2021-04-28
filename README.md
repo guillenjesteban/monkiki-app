@@ -1,5 +1,5 @@
 
-# Monkiki App :DOGFACE:
+# Monkiki App
 ________________________
 # Landing Page para presentación de producto.
 
