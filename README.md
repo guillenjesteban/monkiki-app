@@ -3,7 +3,7 @@
 ________________________
 # Landing Page para presentación de producto.
 
-## [Link a la demo](monkikiapp.netlify.app)
+## [Link a la demo](http://monkikiapp.netlify.app)
 
 
 **Cliente:** Monkiki App
