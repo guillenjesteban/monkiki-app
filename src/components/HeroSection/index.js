@@ -1,6 +1,5 @@
 import React from 'react';
 import video from "../../videos/video.mp4";
-import {Link as LinkR} from "react-router-dom";
 import {HeroContainer, HeroBg, VideoBg, HeroContent, HeroH1, HeroP, HeroBtnWrapper, HeroBtn } from "./HeroElements";
 const HeroSection = () => {
     return (

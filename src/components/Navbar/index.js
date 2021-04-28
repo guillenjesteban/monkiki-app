@@ -78,7 +78,7 @@ export const Navbar = ({toggle}) => {
                         exact="true">Veterinarias</NavLinks>
                     </NavItem>
                     <NavItem>
-                        <NavLinks onClick={goFooter} to="veterinarias"
+                        <NavLinks onClick={goFooter}
                         smooth={true} 
                         spy={true} 
                         exact="true"
